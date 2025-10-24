@@ -1,0 +1,18 @@
+facebook-api-project/
+├── 📁 src/
+│   ├── 📁 config/
+│   │   └── 🔧 facebook.js
+│   ├── 📁 services/
+│   │   └── 🔧 facebookService.js
+│   ├── 📁 controllers/
+│   │   └── 🔧 facebookController.js
+│   ├── 📁 routes/
+│   │   └── 🔧 facebookRoutes.js
+│   └── 📁 utils/
+│       └── 🔧 helpers.js
+├── 📄 .env                          (YOUR ACTUAL CREDENTIALS - in .gitignore)
+├── 📄 .env.example                  (TEMPLATE FOR OTHERS)
+├── 📄 README.md                     (PROJECT DOCUMENTATION)
+├── 📄 package.json
+├── 📄 server.js
+└── 📄 .gitignore                    (MAKE SURE .env IS HERE)
